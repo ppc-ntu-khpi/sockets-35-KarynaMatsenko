@@ -1,1 +1,13 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=2843518&assignment_repo_type=AssignmentRepo)
+# Результат
+
+![](ShowResult.png)
+![](ShowDialog.png)
+![](About.png)
+
+## Завдання на "п'ять"
+1. змінила код клієнта так, щоб користувач міг сам ввести ім'я для використання в чаті
+2. змінила код клієнта так, щоб при запуску форма з'являлась в центрі екрану
+3. змінила код клієнта так, щоб вікно "Про програму" (About) відображалось з використанням класу JOptionPane
+4. позбавилась від використання файлу хостів в коді сервера.
+5. реалізувала підтримку кирилиці - кодування UTF-8.
+
